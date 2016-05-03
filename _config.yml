@@ -1,0 +1,28 @@
+name: Repeat Profits
+favicon: null
+layout_spectrum: 0.5680074240081012
+typography_spectrum: 0.04225475830025971
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9523798045702279
+  lightness: 0.3746848120354116
+  saturation: 0.7345820653717965
+  rhythmicContrast: 0.460834598634392
+purpose: []
